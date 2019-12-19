@@ -1,3 +1,7 @@
+# Image Search Engine
+
+<img src="video.gif" width="600px" height="400px" />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
